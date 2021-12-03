@@ -1,0 +1,13 @@
+{
+  "name": "Balancer: Stable Pool",
+  "description": "Supplies {{token}} as half of a join liquidity provider for a liquidity pool on [Balancer](https://www.balancer.fi) to earn BAL. Rewards are harvested, sold for more {{token}}, and deposited back into the strategy.",
+  "addresses": [
+    "0x041d8b4a2a220c85d08729a473cc3bd04bc802b4",
+    "0x680cfbd9bb04c9dbce0c87bb1017280d41beade1"
+  ],
+  "protocols": ["balancer"],
+  "type": "stable",
+  "joinsDisabled": false,
+  "exitsDisabled": false,
+  "order": 1
+}
