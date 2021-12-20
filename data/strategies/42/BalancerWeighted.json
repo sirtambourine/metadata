@@ -1,0 +1,15 @@
+{
+  "title": "Balancer 50USDC-50WETH ",
+  "description": "Provide liquidity in Balancer {{usdc}} - {{weth}} 50/50 pool earning fees and mining",
+  "version": 1,
+  "addresses": [
+    "0x28F8Af9AaFf3BfE059289731E13a5CFe6c0EcF0E",
+    "0x84b74883cd2465940d9586EB95FAF131761A894E",
+    "0x17ea0A1578D6309eb866edD654a7E4a281124cE7"
+  ],
+  "protocols": ["balancer"],
+  "type": "stable",
+  "joinsDisabled": false,
+  "exitsDisabled": false,
+  "order": 1
+}

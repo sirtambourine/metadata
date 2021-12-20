@@ -1,0 +1,14 @@
+{
+  "title": "WETH BUY & HODL",
+  "description": "Buy wrapped ETH, the best representation of the Ethereum ecosystem.",
+  "version": 1,
+  "addresses": [
+    "0x8E20EB3E0371dd36c8e1D118B7f0D0F945Fe71BC",
+    "0x4cC2dFedd941AbD75c16fEff552Beaa7d5067e9a"
+  ],
+  "protocols": ["weth"],
+  "type": "stable",
+  "joinsDisabled": false,
+  "exitsDisabled": false,
+  "order": 1
+}

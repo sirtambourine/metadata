@@ -1,0 +1,14 @@
+{
+  "title": "Eth/StEth @Lido @Balancer",
+  "description": "ETH2: Provide liquidity in Balancer with 50% {{wsteth}} (Wrapped liquid staked Ether 2.0) and 50% {{weth}} pool to earn {{bal}} and {{ldo}}. Rewards are harvested, sold for more {{token}}, and deposited back into the strategy.",
+  "version": 1,
+  "addresses": [
+    "0x350D833d18B26c2692FF4854b060Dd3e4B71B03C"
+  ],
+  "protocols": ["balancer", "lido"],
+  "tokens": ["weth","steth"],
+  "type": "token",
+  "joinsDisabled": false,
+  "exitsDisabled": false,
+  "order": 1
+}
