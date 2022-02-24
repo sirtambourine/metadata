@@ -1,0 +1,14 @@
+{
+  "title": "USDC/MAI/DAI/USDT @Balancer",
+  "description": "Invest in {{usdc}}, {{mai}}, {{dai}} and {{usdt}} for this Stable Pool at Balancer. Supplies {{token}} to join and earn {{bal}}. Rewards are harvested, sold for more {{token}}, and deposited back into the strategy.",
+  "version": 1,
+  "addresses": [
+    "0x530D2Ab6d0dE6A43ebdA60AC3bfC129186CF12db"
+  ],
+  "protocols": ["balancer"],
+  "tokens": ["usdc","mai", "dai", "usdt"],
+  "type": "stable",
+  "joinsDisabled": false,
+  "exitsDisabled": false,
+  "order": 1
+}

@@ -1,0 +1,14 @@
+{
+  "title": "ETH/BTC @Balancer",
+  "description": "Provide liquidity in Balancer with 50% {{weth}} and 50% {{wbtc}} pool to earn {{bal}}. Rewards are harvested, sold for more {{token}}, and deposited back into the strategy.",
+  "version": 1,
+  "addresses": [
+    "0x999368b831DF4196Dc2558Dd36c63b4a47F640E9"
+  ],
+  "protocols": ["balancer"],
+  "tokens": ["weth","wbtc"],
+  "type": "token",
+  "joinsDisabled": false,
+  "exitsDisabled": false,
+  "order": 1
+}

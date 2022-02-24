@@ -1,0 +1,14 @@
+{
+  "title": "USDC @AAVE",
+  "description": "Aave is perhaps best described as a system of lending pools. You provide only {{usdc}} to gain insterest, this can be a very effective strategy without impermanent loss. ",
+  "version": 1,
+  "addresses": [
+    "0xa6CfC5DA0891A03CB80420483AB6E4b1a7AF4923"
+  ],
+  "protocols": ["aave"],
+  "tokens": ["usdc"],
+  "type": "token",
+  "joinsDisabled": false,
+  "exitsDisabled": false,
+  "order": 1
+}
