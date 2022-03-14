@@ -1,0 +1,14 @@
+{
+  "title": "stETH/ETH @Balancer",
+  "description": "Invest in securing the Ethereum network long-term with {{weth}}, {{wsteth}} at Balancer. Supplies {{token}} to join and earn {{bal}}. Rewards are harvested, sold for more {{token}}, and deposited back into the strategy.",
+  "version": 1,
+  "addresses": [
+    "0xC8d71178f0376e22eaf5c38A4Cc460535C4e18b5"
+  ],
+  "protocols": ["balancer"],
+  "tokens": ["weth","wsteth"],
+  "type": "stable",
+  "joinsDisabled": false,
+  "exitsDisabled": false,
+  "order": 1
+}

@@ -3,7 +3,7 @@
   "description": "Provide liquidity in Balancer with {{wmatic}}, {{usdc}}, {{weth}}, {{bal}} pool to earn BAL. Rewards are harvested, sold for more {{token}}, and deposited back into the strategy.",
   "version": 1,
   "addresses": [
-    "0x96a6A7f08c652957A73e12b5A0491557c938BAeb"
+    "0xaE4cA1f4E79F4631A4dF90A3E216D1FF7F7C0f2A"
   ],
   "protocols": ["balancer"],
   "tokens": ["wmatic","usdc", "weth", "bal"],

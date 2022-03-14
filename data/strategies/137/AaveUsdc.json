@@ -3,7 +3,7 @@
   "description": "Aave is perhaps best described as a system of lending pools. You provide only {{usdc}} to gain insterest, this can be a very effective strategy without impermanent loss. ",
   "version": 1,
   "addresses": [
-    "0xa6CfC5DA0891A03CB80420483AB6E4b1a7AF4923"
+    "0x24A9d4B34F3bE043e98FAdf5d34DFc99DCa00fFc"
   ],
   "protocols": ["aave"],
   "tokens": ["usdc"],
