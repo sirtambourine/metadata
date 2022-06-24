@@ -10,5 +10,5 @@
   "type": "token",
   "joinsDisabled": false,
   "exitsDisabled": false,
-  "order": 1
+  "legacy": true
 }
