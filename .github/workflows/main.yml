@@ -7,11 +7,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        node-version: [14.x]
+    
     steps:
-    - name: Run a multi-line script
-      run: |
-        echo Building metadata,
-        ls -la
-        npm run build
+      - uses: actions/checkout@v3
+      - name: Build metadata ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: npm run build
   
 
