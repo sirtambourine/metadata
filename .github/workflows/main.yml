@@ -10,7 +10,7 @@ jobs:
     steps:
     - name: Run a multi-line script
       run: |
-        Building metadata,
+        echo Building metadata,
         ls -la
         npm run build
   
