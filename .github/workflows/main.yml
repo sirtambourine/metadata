@@ -11,6 +11,6 @@ jobs:
     - name: Run a multi-line script
       run: |
         Building metadata,
-        npm build
+        npm run build
   
 
