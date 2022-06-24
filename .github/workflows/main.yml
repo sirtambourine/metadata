@@ -1,0 +1,16 @@
+name: Deploy metadata to GitHub pages
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Run a multi-line script
+      run: |
+        Building metadata,
+        npm build
+  
+
