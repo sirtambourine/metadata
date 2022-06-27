@@ -1,0 +1,13 @@
+{
+  "title": "MATIC/stMATIC @Balancer",
+  "description": "Allocate in {{matic}} and {{stmatic}} for this Stable Pool at Balancer. Supplies {{token}} to join and earn {{bal}}. Rewards are harvested, sold for more {{token}}, and deposited back into the strategy.",
+  "version": 2,
+  "addresses": [
+    "0xdF544015fA09008a32D331ad33De71c530dF4D4D"
+  ],
+  "protocols": ["balancer"],
+  "tokens": ["matic","stmatic"],
+  "type": "stable",
+  "joinsDisabled": false,
+  "exitsDisabled": false
+}

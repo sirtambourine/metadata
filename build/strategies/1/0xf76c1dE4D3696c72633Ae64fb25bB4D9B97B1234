@@ -1,0 +1,1 @@
+{"title":"DAI @AAVE","description":"Aave is perhaps best described as a system of lending pools. You provide only {{dai}} to gain insterest, this can be a very effective strategy without impermanent loss. ","version":2,"protocols":["aave"],"tokens":["dai"],"type":"token","joinsDisabled":false,"exitsDisabled":false}

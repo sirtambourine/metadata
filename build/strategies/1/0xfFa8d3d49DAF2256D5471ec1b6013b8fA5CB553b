@@ -1,0 +1,1 @@
+{"title":"DAI/USDT/USDC BoostedPool @Balancer","description":"Provide liquidity in Balancer Boosted Pool with {{dai}}, {{usdt}} and {{usdc}} pool to earn {{bal}}. Rewards are harvested, sold for more {{token}}, and deposited back into the strategy.","version":2,"protocols":["balancer"],"tokens":["usdt","dai","usdc"],"type":"token","joinsDisabled":false,"exitsDisabled":false}

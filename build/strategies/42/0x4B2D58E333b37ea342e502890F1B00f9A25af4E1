@@ -1,0 +1,1 @@
+{"title":"Balancer 50USDC-50WETH ","description":"Provide liquidity in Balancer {{usdc}} - {{weth}} 50/50 pool earning fees and mining","version":1,"protocols":["balancer"],"tokens":["weth"],"type":"stable","joinsDisabled":false,"exitsDisabled":false,"order":1}

@@ -1,0 +1,13 @@
+{
+  "title": "MATIC/USDC/ETH/BAL @Balancer",
+  "description": "Provide liquidity in Balancer with {{wmatic}}, {{usdc}}, {{weth}}, {{bal}} pool to earn BAL. Rewards are harvested, sold for more {{token}}, and deposited back into the strategy.",
+  "version": 2,
+  "addresses": [
+    "0xB26767c0126D8956c719E051d755faa7B408Ff41"
+  ],
+  "protocols": ["balancer"],
+  "tokens": ["wmatic","usdc", "weth", "bal"],
+  "type": "token",
+  "joinsDisabled": false,
+  "exitsDisabled": false
+}

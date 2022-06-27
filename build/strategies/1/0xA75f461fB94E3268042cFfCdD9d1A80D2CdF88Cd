@@ -1,0 +1,1 @@
+{"title":"DAI @Compound","description":"Supplies {{token}} to join in Compound earning fees with the c token. You will also earn some {{comp}} sold for more {{token}}, and deposited back into the strategy.","version":2,"protocols":["compound"],"tokens":["dai"],"type":"stable","joinsDisabled":false,"exitsDisabled":false}

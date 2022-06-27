@@ -1,0 +1,15 @@
+{
+  "title": "Balancer Stable Pool A",
+  "description": "Supplies {{token}} to join a liquidity an stable pool on [Balancer](https://www.balancer.fi) with {{dai}}, {{usdc}} and {{usdt}} to earn {{bal}}. Rewards are harvested, sold for more {{token}}, and deposited back into the strategy.",
+  "version": 1,
+  "addresses": [
+    "0x9BA137Db60B0A965B737cf9775e67D280fb469ed",
+    "0x18450Def7f29aA448F419685Af62C6ba3a4E655E"
+  ],
+  "protocols": ["balancer"],
+  "type": "stable",
+  "tokens": ["weth"],
+  "joinsDisabled": false,
+  "exitsDisabled": false,
+  "order": 1
+}

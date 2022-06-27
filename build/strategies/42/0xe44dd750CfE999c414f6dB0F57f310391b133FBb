@@ -1,0 +1,1 @@
+{"title":"Stable @Compound","description":"Supplies {{token}} to join in Compound earning fees with the c token. You will also earn some {{comp}}.","version":2,"protocols":["compound"],"tokens":["dai"],"type":"stable","joinsDisabled":false,"exitsDisabled":false,"order":1}
